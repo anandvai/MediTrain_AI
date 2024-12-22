@@ -93,20 +93,3 @@ The backend will be running at: `http://localhost:5000`
 
 ---
 
-## ❤️ **Contributors**
-Special thanks to our mentor for their guidance and support.
-
----
-
-## 📞 **Support or Contact**
-For inquiries or support, feel free to reach out via email or GitHub Issues.
-
----
-
-## 🙏 **Acknowledgments**
-- Our mentors and collaborators for their invaluable feedback.
-- The open-source community for providing tools and datasets.
-
----
-
-> "Empowering healthcare education, one conversation at a time."
