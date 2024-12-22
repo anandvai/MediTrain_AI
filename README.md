@@ -23,8 +23,8 @@ MediTrain AI Bot is an innovative tool designed to revolutionize medical trainin
 
 ```
 MediTrain AI Bot/
-├── Frontend/   (Streamlit application for user interaction)
-└── src/    (Flask-based API for processing user queries)
+├── frontend/   (Streamlit application for user interaction)
+└── backend/    (Flask-based API for processing user queries)
 ```
 
 ---
