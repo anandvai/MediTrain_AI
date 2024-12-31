@@ -42,47 +42,40 @@ MediTrain_AI/
 
 🚀 Getting Started
 Frontend Setup (Streamlit)
-Navigate to the frontend directory:
-bash
-Copy code
+Navigate to the frontend directory
 cd frontend
+
 Install dependencies:
-bash
-Copy code
 pip install -r requirements.txt
-Run the Streamlit application:
-bash
-Copy code
+
+Run the Streamlit application
 streamlit run streamlit_app.py
+
 Access the application at:
 http://localhost:8501
+
 Backend Setup (Flask)
 Navigate to the backend directory:
-bash
-Copy code
 cd backend
+
 Install dependencies:
-bash
-Copy code
 pip install -r requirements.txt
-Start the Flask server:
-bash
-Copy code
+
+Start the Flask server
 python flask_app.py
+
 Access the API at:
 http://localhost:5000
+
 🎯 Core Functionalities
 AI-Driven Interactions:
 Simulate patient conversations in real-time using NLP-based dialogue generation.
 Enhance diagnostic and communication skills through tailored scenarios.
-
 Health Resources and Insights:
-Access curated health tips and best practices for various medical conditions.
+Get access to curated health tips and best practices for various medical conditions.
 Explore case studies to refine clinical judgment.
-
 Progress Tracking:
 Monitor your learning journey with detailed performance metrics.
-
 🛠️ Technologies Used
 Frontend:
 Streamlit: For crafting an interactive and intuitive user interface.
@@ -90,13 +83,21 @@ Backend:
 Flask: Robust API design for seamless query processing.
 LangChain: AI-driven contextual enhancements for chatbot interactions.
 GROQ API: Powers the chatbot’s advanced medical response system.
+Deployment Tools:
+
 🏆 Outcomes and Impact
-📈 Improved Training:
-Medical trainees benefit from hands-on practice in a safe, controlled environment.
-
-🌟 Accessibility:
-A platform that is easy to use and accessible anytime, anywhere.
-
-🚀 Enhanced Learning:
-Combines theoretical knowledge with practical skills, fostering holistic growth.
-
+📈 Improved Training: Medical trainees benefit from hands-on practice in a safe, controlled environment.
+🌟 Accessibility: A platform that is easy to use and accessible anytime, anywhere.
+🚀 Enhanced Learning: Combines theoretical knowledge with practical skills, fostering holistic growth.
+👥 Contributors and Acknowledgments
+Team Members:
+Vaibhav Anand: Developer and visionary behind MediTrain AI Bot.
+Special thanks to mentors and collaborators for their invaluable support.
+Acknowledgments:
+The open-source community for their contributions to technology and datasets.
+Healthcare professionals for their insights in shaping realistic training scenarios.
+📞 Contact and Support
+Email: anandvabhav02@gmail.com
+GitHub Issues: Open an issue in this repository for feature requests or bug reports.
+🌟 Vision Statement
+"Empowering healthcare education, one AI-powered interaction at a time."
