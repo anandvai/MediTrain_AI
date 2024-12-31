@@ -1,4 +1,6 @@
 MediTrain AI Bot 🤖💊
+
+
 Revolutionizing Healthcare Education with Artificial Intelligence
 📝 Project Overview
 MediTrain AI Bot is a state-of-the-art platform that empowers medical students and healthcare professionals by simulating real-time patient interactions. Using cutting-edge AI, it offers an immersive environment to practice diagnosis, enhance communication skills, and access a comprehensive repository of healthcare knowledge.
